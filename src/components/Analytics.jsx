@@ -8,14 +8,18 @@ const Analytics = () => {
         <img className="w-[500px] mx-auto my-4" src={Laptop} alt="/" />
         <div className="flex flex-col justify-center">
           <p className="text-[#00df9a] font-bold ">DATA ANALYTICS DASHBOARD</p>
-          <h1 className="md:text-4xl sm:3xl text-2xl font-bold py-2">Manage Data Analytics Centrally</h1>
+          <h1 className="md:text-4xl sm:3xl text-2xl font-bold py-2">
+            Manage Data Analytics Centrally
+          </h1>
           <p className="">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
             autem fugiat modi amet repellat enim hic tenetur, laudantium ducimus
             maiores iste ad corporis consequuntur. Non, cumque. Aspernatur
             consequuntur possimus quia?
           </p>
-          <button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]'>Get Started</button>
+          <button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]">
+            Get Started
+          </button>
         </div>
       </div>
     </div>
